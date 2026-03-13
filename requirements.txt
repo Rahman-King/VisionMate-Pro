@@ -1,0 +1,7 @@
+ultralytics
+streamlit-webrtc
+face_recognition
+easyocr
+opencv-python-headless
+av
+numpy
